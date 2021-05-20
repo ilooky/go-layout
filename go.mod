@@ -10,6 +10,7 @@ require (
 	github.com/ilooky/logger v1.0.3
 	github.com/json-iterator/go v1.1.11
 	go.uber.org/zap v1.16.0
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	gopkg.in/yaml.v2 v2.4.0
 	xorm.io/builder v0.3.9
 	xorm.io/xorm v1.1.0
